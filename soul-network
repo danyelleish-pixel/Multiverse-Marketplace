@@ -1,0 +1,6 @@
+soul-network/
+├── frontend/          (React app - what you play in browser)
+├── backend/           (Node.js API - game logic)
+├── database/          (MongoDB schemas)
+├── docs/              (Game design, lore, compliance)
+└── README.md
